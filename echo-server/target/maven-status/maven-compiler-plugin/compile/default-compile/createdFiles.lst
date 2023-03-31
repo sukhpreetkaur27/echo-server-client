@@ -1,0 +1,4 @@
+com/grizzly/sample/rest/MyResource.class
+com/grizzly/sample/rest/Main.class
+com/grizzly/sample/filter/EchoFilter.class
+com/grizzly/sample/server/EchoServer.class
